@@ -1,0 +1,88 @@
+body{
+    background-color: cornflowerblue;
+}
+
+main{
+    font-size: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+    background-color: white;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 0.5em;
+}
+
+section{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h2{
+    line-height: 50px;
+    display: inline;
+    border-bottom: 1px solid gray;
+}
+
+img{
+    width: 600px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.menu{
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+    background-color: black;
+}
+
+#header1{
+    text-align: center;
+    font: 5em bold;
+    color: white;
+    text-shadow: 0 2px 4px rgb(0 0 0 / 25%);
+}
+
+#fact1{
+    padding: 0.5em;
+    background-color: rgb(219, 219, 219);
+    border-left: solid 4px cyan;
+    margin-left: 25px;
+    margin-right: 100px;
+}
+
+#fact2{
+    padding: 0.5em;
+    background-color: rgb(219, 219, 219);
+    border-left: solid 4px cyan;
+    margin-left: 25px;
+    margin-right: 100px;
+}
+
+#fact3{
+    padding: 0.5em;
+    background-color: rgb(219, 219, 219);
+    border-left: solid 4px cyan;
+    margin-left: 25px;
+    margin-right: 100px;
+}
+
+#fact4{
+    padding: 0.5em;
+    background-color: rgb(219, 219, 219);
+    border-left: solid 4px cyan;
+    margin-left: 25px;
+    margin-right: 100px;
+}
